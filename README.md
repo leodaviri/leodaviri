@@ -1,5 +1,5 @@
 <center>
-<img src="" style="width: 100% ; aspect-ratio:12/6">
+<img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/bigdata03.jfif" style="width: 100% ; aspect-ratio:12/6">
 </center>
 
 # Hola, soy Leonardo!
