@@ -28,4 +28,6 @@ Si buscas un perfil proactivo y comprometido, puedes contactarme en los siguient
 - [Outlook](mailto:leodaviri@outlook.com)
 - [Gmail](mailto:leodaviri@gmail.com)
 
-** [(ver mi CV)](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV%20Leonardo%20Iriarte%202024.pdf)
+## Mi currículum vitae:
+
+Se puede visualizar mi CV en el siguiente [link](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV%20Leonardo%20Iriarte%202024.pdf).
