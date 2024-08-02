@@ -20,7 +20,7 @@ SQL || Power Bi || Python || GitHub || Excel || Git
 
 ## Contacto:
 
-Estoy abierto a oportunidades en el ámbito de análisis de datos. 
+Estoy abierto a oportunidades en el ámbito de análisis de datos.\
 Si buscas un perfil proactivo y comprometido, puedes contactarme en los siguientes medios:
 
 - [Whatsapp](https://wa.me/3815211446)
