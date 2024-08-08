@@ -11,11 +11,11 @@
 - Me especializo en gestión de bases de datos, normalización y estructura, análisis exploratorio, ETL, EDA, insights y visualizaciones.
 - A partir del 2022 comencé cursos de datos en Coderhouse, utilizando herramientas como Excel, Powerpoint, SQL, Power BI y Python, completando hasta el momento los siguientes:
   - Procesamiento de Datos en Excel (ago - sep '22)\
-    <img width="20" height="20" src="https://img.icons8.com/3d-fluency/94/contract.png" alt="contract"/> *[certificado->](https://www.coderhouse.com/ar/certificados/634227fa5f1884000e41af8b?lang=es)*
+    *certificado->*[<img width="20" height="20" src="https://img.icons8.com/3d-fluency/94/contract.png" alt="contract"/>](https://www.coderhouse.com/ar/certificados/634227fa5f1884000e41af8b?lang=es)
   - Data Analytics (may - jul '23)\
-    <img width="20" height="20" src="https://img.icons8.com/3d-fluency/94/contract.png" alt="contract"/> *[certificado->](https://www.coderhouse.com/ar/certificados/64e2607b89930e39ae1c1d8d?lang=es)*
+    *certificado->*[<img width="20" height="20" src="https://img.icons8.com/3d-fluency/94/contract.png" alt="contract"/>](https://www.coderhouse.com/ar/certificados/64e2607b89930e39ae1c1d8d?lang=es)
   - Data Science (ago '23 - mar '24)\
-    <img width="20" height="20" src="https://img.icons8.com/3d-fluency/94/contract.png" alt="contract"/> *[certificado->](https://www.coderhouse.com/ar/certificados/66070d965f3bd596f289d27c?lang=es)*
+    *certificado->*[<img width="20" height="20" src="https://img.icons8.com/3d-fluency/94/contract.png" alt="contract"/>](https://www.coderhouse.com/ar/certificados/66070d965f3bd596f289d27c?lang=es)
 - Actualmente me encuentro cursando SQL, el cual finalizará en agosto 2024.
 - Estoy familiarizado con herramientas IA como ChatGPT, Gemini, Copilot y Meta AI, las cuales utilizo a modo de soporte y optimización.
 - Estoy en proceso de aprendizaje con la motivación de seguir sumando conocimientos y desarrollarme en el campo de inteligencia de datos.
@@ -23,7 +23,7 @@
 
 ## Conocimientos:
 
-SQL || Power Bi || Python || GitHub || Excel
+<img width="15" height="15" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/> SQL || <img width="15" height="15" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/> Power Bi || <img width="15" height="15" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> Python || <img width="15" height="15" src="https://img.icons8.com/3d-fluency/94/github.png" alt="github"/> GitHub || <img width="15" height="15" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> Excel
 
 ## Contacto:
 
