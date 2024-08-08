@@ -3,6 +3,7 @@
 </center>
 
 # Hola, soy Leonardo!
+[![Hits](https://hits.sh/github.com/leodaviri.svg?style=plastic&label=Profile%20views)](https://hits.sh/github.com/leodaviri/)
 
 ## Sobre mi:
 
