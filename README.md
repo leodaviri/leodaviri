@@ -37,8 +37,7 @@ Si buscas un perfil proactivo y comprometido, puedes contactarme en los siguient
 
 ## Mi currículum: 
 
-Se puede visualizar mi CV en el siguiente link:\
-<img width="20" height="20" src="https://img.icons8.com/matisse/100/resume.png" alt="resume"/> *[click aquí](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV%20Leonardo%20Iriarte%202024.pdf)*
+Se puede visualizar mi CV en el siguiente ícono: [<img width="25" height="25" src="https://img.icons8.com/papercut/60/resume.png" alt="resume"/>](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV%20Leonardo%20Iriarte%202024.pdf)
 ___
-*"DATO MATA RELATO"*\
-<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/data-configuration.png" alt="data-configuration"/>
+
+<img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/dato_mata_relato.png"/>
