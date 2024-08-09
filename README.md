@@ -9,7 +9,7 @@
 
 - Soy analista de datos en formación, he adquirido conocimienos desarrollando proyectos durante cursos tomados en [Coderhouse](https://www.coderhouse.com/ar/).
 - Me especializo en gestión de bases de datos, normalización y estructura, análisis exploratorio, ETL, EDA, insights y visualizaciones.
-- A partir del 2022 comencé cursos de datos en Coderhouse, utilizando herramientas como Excel, Powerpoint, SQL, Power BI y Python, completando hasta el momento los siguientes:
+- A partir del 2022 comencé a tomar cursos ligados a los datos, utilizando herramientas como Excel, Powerpoint, SQL, Power BI y Python, completando hasta el momento los siguientes:
   - Procesamiento de Datos en Excel (ago - sep '22)\
     *certificado->*  [<img width="20" height="20" src="https://img.icons8.com/3d-fluency/94/contract.png" alt="contract"/>](https://www.coderhouse.com/ar/certificados/634227fa5f1884000e41af8b?lang=es)
   - Data Analytics (may - jul '23)\
