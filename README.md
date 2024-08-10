@@ -7,23 +7,28 @@
 
 ## Sobre mi:
 
-- Soy analista de datos en formación, he adquirido conocimienos desarrollando proyectos durante cursos tomados en [Coderhouse](https://www.coderhouse.com/ar/).
-- Me especializo en gestión de bases de datos, normalización y estructura, análisis exploratorio, ETL, EDA, insights y visualizaciones.
-- A partir del 2022 comencé a tomar cursos ligados a los datos, utilizando herramientas como Excel, Powerpoint, SQL, Power BI y Python, completando hasta el momento los siguientes:
-  - Procesamiento de Datos en Excel (ago - sep '22)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://www.coderhouse.com/ar/certificados/634227fa5f1884000e41af8b?lang=es)
-  - Data Analytics (may - jul '23)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://www.coderhouse.com/ar/certificados/64e2607b89930e39ae1c1d8d?lang=es)
-  - Data Science (ago '23 - mar '24)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://www.coderhouse.com/ar/certificados/66070d965f3bd596f289d27c?lang=es)
+- Soy analista de datos.
+- He adquirido conocimienos desarrollando proyectos durante cursos tomados en [Coderhouse](https://www.coderhouse.com/ar/) desde el 2022.
+- Hasta el momento he completado con éxito 3 cursos, los cuales son Procesamiento de Datos en Excel, Data Analytics y Data Science.
 - Actualmente me encuentro cursando SQL, el cual finalizará en agosto 2024.
-- Estoy familiarizado con herramientas IA como ChatGPT, Gemini, Copilot y Meta AI, las cuales utilizo a modo de soporte y optimización.
+- Me especializo en gestión de bases de datos, normalización y estructura, análisis exploratorio, ETL, EDA, insights y visualizaciones.
+- Estoy familiarizado con herramientas IA como ChatGPT, Gemini, Copilot y Meta AI (entre otros), las cuales utilizo a modo de soporte y optimización.
 - Estoy en proceso de aprendizaje con la motivación de seguir sumando conocimientos y desarrollarme en el campo de inteligencia de datos.
-- Encontré un campo que me gusta y mi objetivo es dedicarme de lleno a los datos, cambiar mi área laboral, seguir explorando nuevas tecnologías y herramientas, continuar aprendiendo de diversas fuentes para lograr alcanzar la meta de ser Científico de Datos.
+- Encontré lo que me gusta y mi objetivo es dedicarme de lleno a los datos, cambiar mi área laboral, seguir explorando nuevas tecnologías y herramientas, continuar aprendiendo de diversas fuentes para lograr alcanzar la meta de ser Científico de Datos.
 
 ## Conocimientos:
 
 <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/MySQL.png"/> SQL || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Power%20BI.png"/> Power Bi || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Python.png"/> Python || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Github.png"/> GitHub || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Excel.png"/> Excel
+
+## Certificaciones:
+
+- Procesamiento de Datos en Excel (ago - sep '22)\
+    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://www.coderhouse.com/ar/certificados/634227fa5f1884000e41af8b?lang=es)
+- Data Analytics (may - jul '23)\
+    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://www.coderhouse.com/ar/certificados/64e2607b89930e39ae1c1d8d?lang=es)
+- Data Science (ago '23 - mar '24)\
+    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://www.coderhouse.com/ar/certificados/66070d965f3bd596f289d27c?lang=es)
+
 
 ## Contacto:
 
