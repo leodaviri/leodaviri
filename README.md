@@ -33,7 +33,7 @@
 ## Contacto:
 
 Estoy abierto a oportunidades en el ámbito de análisis de datos.\
-Si buscas un perfil proactivo y comprometido, puedes contactarme en los siguientes medios:
+Si buscas un perfil proactivo, responsable, organizado, excelente para la comunicación y trabajo en equipo, puedes contactarme en los siguientes medios:
 
 <img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Whatsapp.png"/>  [Whatsapp](https://wa.me/3815211446)\
 <img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Telegram.png"/>  [Telegram](https://t.me/leodaviri)\
