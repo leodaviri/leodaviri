@@ -17,7 +17,8 @@
 
 ## Conocimientos:
 
-<img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/MySQL.png"/> SQL || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Power%20BI.png"/> Power Bi || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Python.png"/> Python || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Github.png"/> GitHub || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Excel.png"/> Excel
+<img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/MySQL.png"/> SQL || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Power%20BI.png"/> Power BI || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Python.png"/> Python || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Github.png"/> GitHub || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Excel.png"/> Excel || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/VScode.png"/> VSCode
+
 
 ## Certificaciones:
 
