@@ -11,7 +11,7 @@
 - He adquirido conocimienos desarrollando proyectos durante cursos tomados en [Coderhouse](https://www.coderhouse.com/ar/) desde el 2022.
 - Hasta el momento he completado con éxito 3 cursos, los cuales son Procesamiento de Datos en Excel, Data Analytics, Data Science y SQL.
 - Me especializo en gestión de bases de datos, normalización y estructura, análisis exploratorio, ETL, EDA, insights y visualizaciones.
-- Estoy familiarizado con herramientas IA como ChatGPT, Gemini, Copilot y Meta AI (entre otros), las cuales utilizo a modo de soporte y optimización.
+- Estoy familiarizado con herramientas IA como ChatGPT, Gemini, Copilot. Claude y Meta AI (entre otros), las cuales utilizo a modo de soporte y optimización.
 - Estoy en proceso de aprendizaje con la motivación de seguir sumando conocimientos y desarrollarme en el campo de inteligencia de datos.
 - Encontré lo que me gusta y mi objetivo es dedicarme de lleno a los datos, cambiar mi área laboral, seguir explorando nuevas tecnologías y herramientas, continuar aprendiendo de diversas fuentes para lograr alcanzar la meta de ser Científico de Datos.
 
