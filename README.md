@@ -44,7 +44,7 @@ Si buscas un perfil proactivo, responsable, organizado, excelente para la comuni
 ## Mi currículum: 
 
 Se puede visualizar y descargar mi CV, en formato pdf, haciendo click en el siguiente botón-> [<img width="25" height="25" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV.png"/>](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV%20Leonardo%20Iriarte%202024.pdf)\
-**(contiene enlaces en los íconos)*
+**(contiene enlaces en los íconos de los cursos)*
 ___
 
 <img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Dato_mata_Relato.png"/>
