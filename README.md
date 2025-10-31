@@ -23,13 +23,13 @@
 ## Certificaciones:
 
 - Procesamiento de Datos en Excel (ago - sep '22)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>]([https://www.coderhouse.com/ar/certificados/634227fa5f1884000e41af8b?lang=es](https://pub.coderhouse.com/legacy-certificates/634227fa5f1884000e41af8b?lang=es))
+    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>]([https://pub.coderhouse.com/legacy-certificates/634227fa5f1884000e41af8b?lang=es])
 - Data Analytics (may - jul '23)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>]([https://www.coderhouse.com/ar/certificados/64e2607b89930e39ae1c1d8d?lang=es](https://pub.coderhouse.com/legacy-certificates/64e2607b89930e39ae1c1d8d?lang=es))
+    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>]([(https://pub.coderhouse.com/legacy-certificates/64e2607b89930e39ae1c1d8d?lang=es]))
 - Data Science (ago '23 - mar '24)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>]([https://www.coderhouse.com/ar/certificados/66070d965f3bd596f289d27c?lang=es](https://pub.coderhouse.com/legacy-certificates/66070d965f3bd596f289d27c?lang=es))
+    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>]([(https://pub.coderhouse.com/legacy-certificates/66070d965f3bd596f289d27c?lang=es]))
 - SQL (may '24 - ago '24)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>]([https://www.coderhouse.com/ar/certificados/66c77b149b6f7c314137e695?lang=es](https://pub.coderhouse.com/legacy-certificates/66c77b149b6f7c314137e695?lang=es))
+    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>]([(https://pub.coderhouse.com/legacy-certificates/66c77b149b6f7c314137e695?lang=es)])
 
 
 ## Contacto:
