@@ -39,7 +39,6 @@ Si buscas un perfil proactivo, responsable, organizado, excelente para la comuni
 
 <img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Whatsapp.png"/>  [Whatsapp](https://wa.me/+5493815211446)\
 <img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Telegram.png"/>  [Telegram](https://t.me/leodaviri)\
-<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Outlook.png"/>  [Outlook](mailto:leodaviri@outlook.com)\
 <img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Gmail.png"/>  [Gmail](mailto:leodaviri@gmail.com)
 
 ## Mi currículum: 
