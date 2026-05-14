@@ -31,9 +31,12 @@ con experiencia en Excel avanzado, SQL, Power Query y Power BI.
 
 ### Herramientas y tecnologías
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 </p>
 
@@ -49,28 +52,30 @@ con experiencia en Excel avanzado, SQL, Power Query y Power BI.
 
 ---
 
-# Certificaciones
+# Certificaciones - Corderhouse
 
-- Data Science — Coderhouse
-- Data Analytics — Coderhouse
-- SQL — Coderhouse
-- Procesamiento de Datos en Excel — Coderhouse
+[![Excel](https://img.shields.io/badge/Excel-Certificado-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://pub.coderhouse.com/legacy-certificates/634227fa5f1884000e41af8b?lang=es)
 
-📄 [Ver certificados](LINK_CERTIFICADOS)
+[![Data Analytics](https://img.shields.io/badge/Data_Analytics-Certificado-FE7A16?style=flat)](https://pub.coderhouse.com/legacy-certificates/64e2607b89930e39ae1c1d8d?lang=es)
+
+[![Data Science](https://img.shields.io/badge/Data_Science-Certificado-8A2BE2?style=flat)](https://pub.coderhouse.com/legacy-certificates/66070d965f3bd596f289d27c?lang=es)
+
+[![SQL](https://img.shields.io/badge/SQL-Certificado-4479A1?style=flat&logo=mysql&logoColor=white)](https://pub.coderhouse.com/legacy-certificates/66c77b149b6f7c314137e695?lang=es)
+
 
 ---
 
 # Contacto
 
-📧 **Email:** leodaviri@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/leodaviri  
-📱 **WhatsApp:** https://wa.me/+5493815211446
+📧 **Email:** [leodaviri@gmail.com](mailto:leodaviri@gmail.com)\
+💼 **LinkedIn:** [leodaviri](https://linkedin.com/in/leodaviri)\
+📱 **WhatsApp:** [+54 9 381 521-1446](https://wa.me/+5493815211446)
 
 ---
 
 # Currículum
 
-📄 [CV Profesional - PDF](LINK_CV)
+📄 [CV Profesional - PDF](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV%20Leonardo%20Iriarte%202026.pdf)
 
 ---
 
