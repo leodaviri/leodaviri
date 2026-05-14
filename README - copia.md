@@ -1,53 +1,81 @@
-<center>
-<img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Big_Data_World.jfif" style="width: 100% ; aspect-ratio:12/6">
-</center>
+<div align="center">
 
-# Hola, soy Leonardo!
-[![Hits](https://hits.sh/github.com/leodaviri.svg?style=plastic&label=Profile%20views)](https://hits.sh/github.com/leodaviri/)
+<img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Big_Data_World.jfif" width="100%">
 
-## Sobre mi:
+# Leonardo Iriarte
 
-- Soy analista de datos.
-- He adquirido conocimienos desarrollando proyectos durante cursos tomados en [Coderhouse](https://www.coderhouse.com/ar/) desde el 2022.
-- Hasta el momento he completado con éxito 4 cursos, los cuales son Procesamiento de Datos en Excel, Data Analytics, Data Science y SQL.
-- Me especializo en gestión de bases de datos, normalización y estructura, análisis exploratorio, ETL, EDA, insights y visualizaciones.
-- Estoy familiarizado con herramientas IA como ChatGPT, Gemini, Copilot. Claude y DeepSeek (entre otros), las cuales utilizo a modo de soporte y optimización, sobretodo para códigos complejos.
-- Estoy en proceso de aprendizaje con la motivación de seguir sumando conocimientos y desarrollarme en el campo de inteligencia de datos.
-- Encontré lo que me gusta y mi objetivo es dedicarme de lleno a los datos, cambiar mi área laboral, seguir explorando nuevas tecnologías y herramientas, continuar aprendiendo de diversas fuentes para lograr alcanzar la meta de ser profesional en Datos.
+### DBA | Data Analyst | Excel & SQL Analyst | ETL & Data Modeling
 
-## Conocimientos:
+Analista orientado a automatización, procesamiento y modelado de datos,  
+con experiencia en Excel avanzado, SQL, Power Query y Power BI.
 
-<img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/MySQL.png"/> SQL || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Power%20BI.png"/> Power BI || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Python.png"/> Python || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Github.png"/> GitHub || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Excel.png"/> Excel || <img width="15" height="15" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/VScode.png"/> VSCode
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leodaviri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leodaviri@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/leodaviri)
 
+</div>
 
-## Certificaciones:
+---
 
-- Procesamiento de Datos en Excel (ago - sep '22)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://pub.coderhouse.com/legacy-certificates/634227fa5f1884000e41af8b?lang=es)
-- Data Analytics (may - jul '23)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://pub.coderhouse.com/legacy-certificates/64e2607b89930e39ae1c1d8d?lang=es)
-- Data Science (ago '23 - mar '24)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://pub.coderhouse.com/legacy-certificates/66070d965f3bd596f289d27c?lang=es)
-- SQL (may '24 - ago '24)\
-    *certificado->*  [<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Certificado.png"/>](https://pub.coderhouse.com/legacy-certificates/66c77b149b6f7c314137e695?lang=es)
+# Sobre mí
 
+- Especializado en automatización de procesos y análisis de datos.
+- Experiencia en gestión, normalización y mantenimiento de bases de datos.
+- Desarrollo de soluciones utilizando Excel avanzado, SQL, Power Query y Power BI.
+- Enfocado en ETL, reporting, análisis operativo y optimización de procesos.
+- Familiarizado con herramientas IA como ChatGPT, Copilot, Gemini, Claude y DeepSeek para validación y optimización de código.
 
-## Contacto:
+---
 
-Estoy abierto a oportunidades en el ámbito de análisis de datos.\
-Si buscas un perfil proactivo, responsable, organizado, excelente para la comunicación y trabajo en equipo, puedes contactarme en los siguientes medios:
+# Stack técnico
 
-<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Whatsapp.png"/>  [Whatsapp](https://wa.me/3815211446)\
-<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Telegram.png"/>  [Telegram](https://t.me/leodaviri)\
-<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Outlook.png"/>  [Outlook](mailto:leodaviri@outlook.com)\
-<img width="20" height="20" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Gmail.png"/>  [Gmail](mailto:leodaviri@gmail.com)
+### Herramientas y tecnologías
 
-## Mi currículum: 
+<p align="left">
 
-Se puede visualizar y descargar mi CV, en formato pdf, haciendo click en el siguiente botón-> [<img width="25" height="25" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV.png"/>](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV%20Leonardo%20Iriarte%202025.pdf)\
-**(contiene enlaces en los íconos de los cursos)*
+<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode" />
 
-CV optimizado a diseño minimalista -> [<img width="25" height="25" src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV.png"/>](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CV%20Leonardo%20Iriarte%202026.pdf)
-___
+</p>
 
-<img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Dato_mata_Relato.png"/>
+- Excel Avanzado
+- Power Query
+- SQL
+- Power BI
+- ETL
+- Data Modeling
+- EDA
+- GitHub
+- Python básico
+
+---
+
+# Certificaciones
+
+- Data Science — Coderhouse
+- Data Analytics — Coderhouse
+- SQL — Coderhouse
+- Procesamiento de Datos en Excel — Coderhouse
+
+📄 [Ver certificados](LINK_CERTIFICADOS)
+
+---
+
+# Contacto
+
+📧 **Email:** leodaviri@gmail.com  
+💼 **LinkedIn:** https://linkedin.com/in/leodaviri  
+📱 **WhatsApp:** https://wa.me/+5493815211446
+
+---
+
+# Currículum
+
+📄 [CV Profesional - PDF](LINK_CV)
+
+---
+
+<div align="center">
+
+<img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Dato_mata_Relato.png" width="250">
+
+</div>
