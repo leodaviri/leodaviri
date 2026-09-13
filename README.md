@@ -6,8 +6,8 @@
 
 ### Analista de Reporting y Automatización de Procesos | Excel Avanzado · Power Query · SQL · Power BI
 
-Analista orientado a automatización, procesamiento y modelado de datos,  
-con experiencia en Excel avanzado, SQL, Power Query y Power BI.
+Más de 15 años de experiencia administrativa y de gestión operativa en pymes del sector comercial.  
+Desde 2022, enfocado en automatización de procesos y reporting con Excel Avanzado, Power Query, SQL y Power BI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leodaviri)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leodaviri@gmail.com)
@@ -19,11 +19,10 @@ con experiencia en Excel avanzado, SQL, Power Query y Power BI.
 
 # Sobre mí
 
-- Especializado en automatización de procesos y análisis de datos.
-- Experiencia en gestión, normalización y mantenimiento de bases de datos.
-- Desarrollo de soluciones utilizando Excel avanzado, SQL, Power Query y Power BI.
-- Enfocado en ETL, reporting, análisis operativo y optimización de procesos.
-- Familiarizado con herramientas IA como ChatGPT, Copilot, Gemini, Claude y DeepSeek para validación y optimización de código.
+- Combino criterio de negocio y capacidad analítica para transformar procesos manuales en soluciones automatizadas y confiables.
+- Conocimientos de SQL, modelado de bases de datos relacionales y Power BI, en desarrollo constante.
+- Experiencia diseñando dashboards de gestión, bases de productos/precios y seguimiento de indicadores para la toma de decisiones.
+- Uso herramientas de IA (ChatGPT, Copilot, Gemini, Claude, DeepSeek) como apoyo técnico, siempre con validación propia de los resultados.
 
 ---
 
@@ -32,27 +31,25 @@ con experiencia en Excel avanzado, SQL, Power Query y Power BI.
 ### Herramientas y tecnologías
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-E97627?style=flat&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-</p>
-
 - Excel Avanzado
 - Power Query
-- SQL
-- Power BI
-- ETL
-- Data Modeling
-- EDA
-- GitHub
-- Python básico
+- Reporting y Dashboards
+- SQL (MySQL, SQL Server) — nivel intermedio
+- Bases de Datos Relacionales — modelado y normalización
+- Power BI / DAX — nivel formativo
+- Python & GitHub — nivel formativo/básico
+- VS Code
 
 ---
 
-# Certificaciones - Corderhouse
+# Certificaciones - Coderhouse
 
 [![Excel](https://img.shields.io/badge/Excel-Certificado-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://pub.coderhouse.com/legacy-certificates/634227fa5f1884000e41af8b?lang=es)
 
@@ -61,7 +58,6 @@ con experiencia en Excel avanzado, SQL, Power Query y Power BI.
 [![Data Science](https://img.shields.io/badge/Data_Science-Certificado-8A2BE2?style=flat)](https://pub.coderhouse.com/legacy-certificates/66070d965f3bd596f289d27c?lang=es)
 
 [![SQL](https://img.shields.io/badge/SQL-Certificado-4479A1?style=flat&logo=mysql&logoColor=white)](https://pub.coderhouse.com/legacy-certificates/66c77b149b6f7c314137e695?lang=es)
-
 
 ---
 
