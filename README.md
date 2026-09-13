@@ -52,13 +52,13 @@ Desde 2022, enfocado en automatización de procesos y reporting con Excel Avanza
 
 # Certificaciones - Coderhouse
 
-[![Excel](https://img.shields.io/badge/Excel-Certificado-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CERTIF%20EX%20CODER%20SEP%20'22%20(2).png)
+[![Excel](https://img.shields.io/badge/Excel-Certificado-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://raw.githubusercontent.com/leodaviri/leodaviri/refs/heads/main/imagenes/CERTIF%20EX%20CODER%20SEP%20'22%20(2).png)
 
-[![Data Analytics](https://img.shields.io/badge/Data_Analytics-Certificado-FE7A16?style=flat)](https://pub.coderhouse.com/legacy-certificates/64e2607b89930e39ae1c1d8d?lang=es)
+[![Data Analytics](https://img.shields.io/badge/Data_Analytics-Certificado-FE7A16?style=flat)](https://raw.githubusercontent.com/leodaviri/leodaviri/refs/heads/main/imagenes/CERTIF%20DA%20CODER%20JUL%20'23%20(2).png)
 
-[![Data Science](https://img.shields.io/badge/Data_Science-Certificado-8A2BE2?style=flat)](https://pub.coderhouse.com/legacy-certificates/66070d965f3bd596f289d27c?lang=es)
+[![Data Science](https://img.shields.io/badge/Data_Science-Certificado-8A2BE2?style=flat)](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CERTIF%20DS%20CODER%20MAR%20'24%20(1).png?raw=true)
 
-[![SQL](https://img.shields.io/badge/SQL-Certificado-4479A1?style=flat&logo=mysql&logoColor=white)](https://pub.coderhouse.com/legacy-certificates/66c77b149b6f7c314137e695?lang=es)
+[![SQL](https://img.shields.io/badge/SQL-Certificado-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CERTIF%20SQL%20CODER%20AGO%20'24.png?raw=true)
 
 ---
 
