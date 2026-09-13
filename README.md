@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Big_Data_World.jfif" width="100%">
+<img src="https://github.com/leodaviri/leodaviri/blob/main/imagenes/Banner_LinkedIn_2026_byClaude.png" width="100%">
 
 # Leonardo Iriarte
 
