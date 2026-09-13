@@ -52,7 +52,7 @@ Desde 2022, enfocado en automatización de procesos y reporting con Excel Avanza
 
 # Certificaciones - Coderhouse
 
-[![Excel](https://img.shields.io/badge/Excel-Certificado-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://pub.coderhouse.com/legacy-certificates/634227fa5f1884000e41af8b?lang=es)
+[![Excel](https://img.shields.io/badge/Excel-Certificado-217346?style=flat&logo=microsoft-excel&logoColor=white)]([https://pub.coderhouse.com/legacy-certificates/634227fa5f1884000e41af8b?lang=es](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CERTIF%20EX%20CODER%20SEP%20'22%20(2).png))
 
 [![Data Analytics](https://img.shields.io/badge/Data_Analytics-Certificado-FE7A16?style=flat)](https://pub.coderhouse.com/legacy-certificates/64e2607b89930e39ae1c1d8d?lang=es)
 
