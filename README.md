@@ -4,7 +4,7 @@
 
 # Leonardo Iriarte
 
-### DBA | Data Analyst | Excel & SQL Analyst | ETL & Data Modeling
+### Analista de Reporting y Automatización de Procesos | Excel Avanzado · Power Query · SQL · Power BI
 
 Analista orientado a automatización, procesamiento y modelado de datos,  
 con experiencia en Excel avanzado, SQL, Power Query y Power BI.
