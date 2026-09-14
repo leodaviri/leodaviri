@@ -56,9 +56,9 @@ Desde 2022, enfocado en automatización de procesos y reporting con Excel Avanza
 
 [![Data Analytics](https://img.shields.io/badge/Data_Analytics-Certificado-FE7A16?style=flat)](https://raw.githubusercontent.com/leodaviri/leodaviri/refs/heads/main/imagenes/CERTIF%20DA%20CODER%20JUL%20'23%20(2).png)
 
-[![Data Science](https://img.shields.io/badge/Data_Science-Certificado-8A2BE2?style=flat)](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CERTIF%20DS%20CODER%20MAR%20'24%20(1).png?raw=true)
+[![Data Science](https://img.shields.io/badge/Data_Science-Certificado-8A2BE2?style=flat)](https://raw.githubusercontent.com/leodaviri/leodaviri/refs/heads/main/imagenes/CERTIF%20DS%20CODER%20MAR%20'24%20(1).png)
 
-[![SQL](https://img.shields.io/badge/SQL-Certificado-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/leodaviri/leodaviri/blob/main/imagenes/CERTIF%20SQL%20CODER%20AGO%20'24.png?raw=true)
+[![SQL](https://img.shields.io/badge/SQL-Certificado-4479A1?style=flat&logo=mysql&logoColor=white)](https://raw.githubusercontent.com/leodaviri/leodaviri/refs/heads/main/imagenes/CERTIF%20SQL%20CODER%20AGO%20'24.png)
 
 ---
 
