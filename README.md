@@ -4,7 +4,7 @@
 
 # Leonardo Iriarte
 
-### Analista de Reporting y Automatización de Procesos
+### Analista de Reporting | Analista de Datos
 ### Excel Avanzado · Power Query · SQL · Power BI
 
 Más de 15 años de experiencia administrativa y de gestión operativa en pymes del sector comercial.  
