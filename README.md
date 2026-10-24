@@ -8,7 +8,7 @@
 ### Excel Avanzado · Power Query · SQL · Power BI
 
 Más de 15 años de experiencia administrativa y de gestión operativa en pymes del sector comercial.  
-Desde 2022, enfocado en automatización de procesos y reporting con Excel Avanzado, Power Query, SQL y Power BI.
+Desde 2022, enfocado en análisis de datos y reporting con Excel Avanzado, Power Query, SQL y Power BI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/leodaviri)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leodaviri@gmail.com)
